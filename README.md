@@ -9,7 +9,7 @@ View file here: http://htmlpreview.github.io/?https://raw.githubusercontent.com/
 
 **Gradient Descent**
 
-View file here: http://htmlpreview.github.io/?https://github.com/krithikamahesh/practice/blob/master/StochasticGradientDescentVariations.html
+View file here: http://htmlpreview.github.io/?https://github.com/krithikamahesh/practice/blob/master/GradientDescentVariants.html
 
 > This html version of ipython notebook contains practice codes for gradient descent and it's variants:
 > Batch, Stochastic and Mini-batch gradient descent.

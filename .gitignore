@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Re-allow directories so git can look inside them
+!*/
+
+# Track only Python files and notebooks
+!*.py
+!*.ipynb
+!.gitignore
+
+# Never descend into virtual envs / caches
+basenv/
+basenv314/
+practicenv/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
